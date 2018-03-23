@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Steven Walter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to build an application that displays images. The application allows user to navigate through them, and show more than thats there. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://slw16c.github.io/-lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The term 'element' is an HTML element name. and to create a div element you ude: document.createElement("div");
+2. To attach a node to to the appropriate DOM tree you use: parentNode.appendChild(childNode);
+3. To clone a node you would use: existingNode.cloneNode(true | false)
